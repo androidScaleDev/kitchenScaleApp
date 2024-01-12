@@ -1,4 +1,10 @@
 {
-    "showAds": true,
-    "adId": "ca-app-pub-3940256099942544/6300978111"
+  "splashInter": true,
+  "showAds": true,
+  "adId": "ca-app-pub-3940256099942544/6300978111",
+  "countDownInter": true,
+  "countDownNumClick": 3,
+  "countDownInterID": "ca-app-pub-3940256099942544/1033173712",
+  "countDownBanner": true,
+  "countDownBannerID": "ca-app-pub-3940256099942544/2934735716"
 }
