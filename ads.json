@@ -1,6 +1,10 @@
 {
   "splashInter": true,
   "showAds": true,
+   "mainBannerID":  "ca-app-pub-3940256099942544/2934735716",
+   "mainBanner": true,
+   "mainInter": true,
+   "mainInterID":  "ca-app-pub-3940256099942544/1033173712",
   "adId": "ca-app-pub-3940256099942544/6300978111",
   "countDownInter": true,
   "countDownNumClick": 3,
