@@ -11,4 +11,9 @@
   "countDownInterID": "ca-app-pub-3940256099942544/1033173712",
   "countDownBanner": true,
   "countDownBannerID": "ca-app-pub-3940256099942544/2934735716"
+     "listBanner": true,
+   "listBannerID": "ca-app-pub-3940256099942544/2934735716",
+
+    "singleRecipeBanner": true,
+   "singleRecipeBannerID": "ca-app-pub-3940256099942544/2934735716"
 }
