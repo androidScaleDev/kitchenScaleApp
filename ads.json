@@ -1,25 +1,13 @@
 {
-  
-  "showAds": false,
-  "afterSplashInterID":  "ca-app-pub-3940256099942544/1033173712",
-   "afterSplashInter": true,
-   "mainBannerID":  "ca-app-pub-3940256099942544/2934735716",
-   "mainBanner": true,
-   "mainInter": true,
-   "mainInterID":  "ca-app-pub-3940256099942544/1033173712",
-  "adId": "ca-app-pub-3940256099942544/6300978111",
-  "countDownInter": true,
+  "showAds": true,
+  "afterSplashInter": false,
+  "mainBanner": true,
+  "mainInter": true,
+  "countDownInter": false,
   "countDownNumClick": 3,
-  "countDownInterID": "ca-app-pub-3940256099942544/1033173712",
   "countDownBanner": true,
-  "countDownBannerID": "ca-app-pub-3940256099942544/2934735716",
-     "listBanner": true,
-   "listBannerID": "ca-app-pub-3940256099942544/2934735716",
-
-    "singleRecipeBanner": true,
-   "recipeBannerID": "ca-app-pub-3940256099942544/2934735716",
-   "addRecipeBanner": true,
-  "numSaveInter": 3,
-  "numSaveInterID": "ca-app-pub-3940256099942544/1033173712"
- 
+  "listBanner": true,
+  "singleRecipeBanner": true,
+  "addRecipeBanner": true,
+  "numSaveInter": 3
 }
