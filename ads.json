@@ -1,9 +1,9 @@
 {
   "showAds": true,
-  "afterSplashInter": false,
+  "afterSplashInter": true,
   "mainBanner": true,
   "mainInter": true,
-  "countDownInter": false,
+  "countDownInter": true,
   "countDownNumClick": 3,
   "countDownBanner": true,
   "listBanner": true,
