@@ -11,5 +11,8 @@
   "listBanner": true,
   "singleRecipeBanner": true,
   "addRecipeBanner": true,
-  "numSaveInter": 3
+  "numSaveInter": 3,
+  "listBannerRect": true,
+  "addRecipeBannerRect": true,
+  "singleRecipeBannerRect": true
 }
