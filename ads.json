@@ -2,6 +2,7 @@
   "showAds": true,
   "afterSplashInter": true,
   "mainBanner": true,
+  "afterAlertInter": true,
     "mainBannerRect": true,
   "mainInter": true,
   "countDownInter": true,
