@@ -1,6 +1,6 @@
 {
-  "showAds": false,
-  "afterSplashInter": true,
+  "showAds": true,
+  "afterSplashInter": false,
   "interval": 3,
 
   "mainBanner": true,
