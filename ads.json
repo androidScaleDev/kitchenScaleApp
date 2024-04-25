@@ -1,6 +1,8 @@
 {
   "showAds": true,
   "afterSplashInter": true,
+  "interval": 3,
+
   "mainBanner": true,
   "afterAlertInter": true,
     "mainBannerRect": true,
