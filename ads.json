@@ -2,7 +2,7 @@
   "showAds": true,
   "afterSplashInter": false,
   "interval": 3,
-
+"returnAD": true,
   "mainBanner": true,
   "afterAlertInter": true,
     "mainBannerRect": true,
