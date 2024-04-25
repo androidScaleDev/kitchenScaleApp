@@ -1,6 +1,7 @@
 {
   "showAds": true,
   "afterSplashInter": true,
+  "exitBanner": true,
   "interval": 3,
 "returnAD": true,
   "mainBanner": true,
