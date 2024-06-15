@@ -1,10 +1,10 @@
 {
   "showAds": true,
-  "afterSplashInter": true,
+  "afterSplashInter": false,
   "exitBanner": true,
   "interval": 30,
 "returnAD": true,
-  "mainBanner": false,
+  "mainBanner": true,
   "afterAlertInter": false,
     "mainBannerRect": false,
   "mainInter": true,
