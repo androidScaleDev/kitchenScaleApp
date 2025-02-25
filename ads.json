@@ -1,22 +1,22 @@
 {
   "showAds": true,
-  "afterSplashInter": false,
+  "afterSplashInter": true,
   "exitBanner": true,
   "interval": 30,
 "returnAD": true,
   "mainBanner": false,
   "afterAlertInter": true,
-    "mainBannerRect": false,
+    "mainBannerRect": true,
   "mainInter": true,
   "countDownInter": true,
   "countDownNumClick": 4,
-  "countDownBanner": true,
-   "countDownRect": false,
+  "countDownBanner": false,
+   "countDownRect": true,
   "listBanner": true,
   "singleRecipeBanner": true,
   "addRecipeBanner": false,
   "numSaveInter": 3,
-  "listBannerRect": false,
+  "listBannerRect": true,
   "addRecipeBannerRect": false,
-  "singleRecipeBannerRect": false
+  "singleRecipeBannerRect": true
 }
