@@ -12,7 +12,7 @@
   "countDownNumClick": 4,
   "countDownBanner": true,
    "countDownRect": false,
-  "listBanner": true,
+  "listBanner": false,
   "singleRecipeBanner": true,
   "addRecipeBanner": false,
   "numSaveInter": 3,
