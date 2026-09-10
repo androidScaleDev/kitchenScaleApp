@@ -14,7 +14,7 @@
    "countDownRect": false,
   "listBanner": false,
   "singleRecipeBanner": false,
-  "addRecipeBanner": false,
+  "addRecipeBanner": true,
   "numSaveInter": 3,
   "listBannerRect": false,
   "addRecipeBannerRect": false,
